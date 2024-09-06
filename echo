@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>邮件触发页面</title>
+</head>
+<body>
+    <h1>欢迎给《回声》投稿</h1>
+    <p>请点击下面的按钮发送邮件。</p>
+    <a href="mailto:trigo.zhang@matthey.com?subject=《回声》投稿&body=欢迎您给《回声》投稿，请在附件或下文添加您的投稿内容，谢谢！">
+        <button>点击发送邮件</button>
+    </a>
+</body>
+</html>
